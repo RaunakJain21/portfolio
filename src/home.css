@@ -1,0 +1,14 @@
+.high{
+    /* background-image: linear-gradient(90deg,redd,white); 
+    background-clip: text;  */
+    /* color: transparent; */
+    background: linear-gradient(100deg, rgb(166, 104, 255), rgb(0, 255, 164));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.font1{
+    font-family: Roboto,Helvetica,sans-serif;
+}
+.animate{
+    
+}
